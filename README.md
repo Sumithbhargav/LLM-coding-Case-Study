@@ -17,5 +17,4 @@ Analysis of Germany’s 2025 Article IV consultation, published in February 2026
 
 Outputs are saved in `results/`. Automated findings require checking against the source report.
 
-## Licence
-Code: MIT Licence. The IMF report retains its original copyright.
+
